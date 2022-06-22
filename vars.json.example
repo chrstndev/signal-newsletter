@@ -1,0 +1,15 @@
+{
+    "source_number":"",
+    "signal_api_url":"http://localhost:8080",
+    "available_newsletters":[""],
+    "available_newsletters_str":"",
+
+    "newsletter_not_found":"",
+    "newsletter_subscribed":"",
+    "newsletter_unsubscribed":"",
+
+    "welcome_message": "",
+    "user_unsubscribed":"",
+
+    "help_message":""
+}
